@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Cooking is a game mechanic that becomes available after upgrading the farmhouse for the first time. The house upgrade adds a kitchen, which includes a stove and a refrigerator. The stove is the cooking interface, while the refrigerator provides 36 slots of storage space, similar to a chest. The refrigerator is unique in that it is directly linked with the cooking interface, as if it were an extension of the player's inventory. Only ingredients in the player's inventory, refrigerator or Mini-Fridge are seen as usable items for a recipe. - https://stardewvalleywiki.com/Cooking"
+  }
+}
