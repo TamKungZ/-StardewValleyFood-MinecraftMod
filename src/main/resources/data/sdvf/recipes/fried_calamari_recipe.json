@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "food_sv",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "sdvf:deleted_mod_element"
+  },
+  "result": "sdvf:fried_calamari"
+}

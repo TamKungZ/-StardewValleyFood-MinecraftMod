@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pink_dye"
+    },
+    "b": {
+      "item": "minecraft:cake"
+    }
+  },
+  "result": {
+    "item": "sdvf:pink_cake",
+    "count": 1
+  }
+}

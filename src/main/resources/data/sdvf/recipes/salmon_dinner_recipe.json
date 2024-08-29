@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cooked_salmon"
+    },
+    "b": {
+      "item": "minecraft:sugar_cane"
+    },
+    "c": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "item": "sdvf:salmon_dinner",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bread"
+    },
+    "b": {
+      "item": "minecraft:wheat"
+    },
+    "c": {
+      "item": "minecraft:cooked_beef"
+    },
+    "d": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "sdvf:survival_burger",
+    "count": 3
+  }
+}

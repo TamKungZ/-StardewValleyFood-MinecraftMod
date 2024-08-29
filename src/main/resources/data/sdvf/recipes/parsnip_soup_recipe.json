@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food_sv",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:apple"
+    },
+    "b": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "c": {
+      "item": "minecraft:red_mushroom"
+    },
+    "d": {
+      "item": "minecraft:mushroom_stew"
+    }
+  },
+  "result": {
+    "item": "sdvf:parsnip_soup",
+    "count": 3
+  }
+}

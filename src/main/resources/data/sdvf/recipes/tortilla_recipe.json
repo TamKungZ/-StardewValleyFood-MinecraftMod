@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 3,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "sdvf:tortilla"
+}

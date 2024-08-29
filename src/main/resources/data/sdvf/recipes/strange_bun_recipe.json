@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food_sv",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sugar"
+    },
+    "b": {
+      "item": "minecraft:potion"
+    },
+    "c": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "sdvf:strange_bun",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    " c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:baked_potato"
+    },
+    "b": {
+      "item": "minecraft:wheat"
+    },
+    "c": {
+      "item": "minecraft:mushroom_stew"
+    }
+  },
+  "result": {
+    "item": "sdvf:rice_pudding",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "sdvf:baked_fish"
+    },
+    "b": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "sdvf:crispy_bass",
+    "count": 1
+  }
+}

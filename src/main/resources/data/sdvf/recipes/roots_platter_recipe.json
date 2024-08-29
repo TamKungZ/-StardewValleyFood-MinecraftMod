@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:beetroot"
+    },
+    "b": {
+      "item": "minecraft:beetroot_soup"
+    }
+  },
+  "result": {
+    "item": "sdvf:roots_platter",
+    "count": 2
+  }
+}

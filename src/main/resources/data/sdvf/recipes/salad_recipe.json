@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food_sv",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:sugar_cane"
+    },
+    "c": {
+      "item": "minecraft:carrot"
+    },
+    "d": {
+      "item": "minecraft:sweet_berries"
+    },
+    "e": {
+      "item": "minecraft:melon_slice"
+    }
+  },
+  "result": {
+    "item": "sdvf:salad",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "sdvf:banana_pudding"
+    }
+  },
+  "result": {
+    "item": "sdvf:mango_sticky_rice",
+    "count": 2
+  }
+}

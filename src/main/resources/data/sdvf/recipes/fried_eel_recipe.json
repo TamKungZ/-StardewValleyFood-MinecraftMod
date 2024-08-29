@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:fishes"
+    },
+    "b": {
+      "item": "minecraft:beetroot_soup"
+    }
+  },
+  "result": {
+    "item": "sdvf:fried_eel",
+    "count": 1
+  }
+}

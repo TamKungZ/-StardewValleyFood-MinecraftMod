@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "result": {
+    "item": "sdvf:pepper_poppers",
+    "count": 1
+  }
+}

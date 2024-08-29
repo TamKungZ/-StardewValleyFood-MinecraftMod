@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:baked_potato"
+    },
+    "b": {
+      "item": "minecraft:beetroot_soup"
+    }
+  },
+  "result": {
+    "item": "sdvf:tom_kha_soup",
+    "count": 1
+  }
+}

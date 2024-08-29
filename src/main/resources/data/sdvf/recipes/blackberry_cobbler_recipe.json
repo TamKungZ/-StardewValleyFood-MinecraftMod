@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    },
+    "b": {
+      "item": "minecraft:sweet_berries"
+    },
+    "c": {
+      "item": "minecraft:pumpkin_pie"
+    }
+  },
+  "result": {
+    "item": "sdvf:blackberry_cobbler",
+    "count": 1
+  }
+}

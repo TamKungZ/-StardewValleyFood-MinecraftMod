@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food_sv",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:potato"
+    },
+    "b": {
+      "item": "minecraft:carrot"
+    },
+    "c": {
+      "item": "minecraft:sugar_cane"
+    },
+    "d": {
+      "item": "minecraft:wheat"
+    },
+    "e": {
+      "item": "minecraft:bowl"
+    },
+    "f": {
+      "item": "minecraft:melon_slice"
+    },
+    "g": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "h": {
+      "item": "minecraft:kelp"
+    },
+    "i": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "sdvf:vegetable_medley",
+    "count": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    " c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sweet_berries"
+    },
+    "b": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "c": {
+      "item": "minecraft:mushroom_stew"
+    }
+  },
+  "result": {
+    "item": "sdvf:super_meal",
+    "count": 2
+  }
+}

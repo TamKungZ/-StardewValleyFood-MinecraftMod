@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cooked_beef"
+    },
+    "b": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "sdvf:plum_pudding",
+    "count": 5
+  }
+}

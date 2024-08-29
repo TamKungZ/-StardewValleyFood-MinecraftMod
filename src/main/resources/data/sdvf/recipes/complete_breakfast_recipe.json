@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food_sv",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " bc"
+  ],
+  "key": {
+    "a": {
+      "item": "sdvf:fried_egg"
+    },
+    "b": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "c": {
+      "item": "minecraft:beetroot_soup"
+    }
+  },
+  "result": {
+    "item": "sdvf:complete_breakfast",
+    "count": 1
+  }
+}

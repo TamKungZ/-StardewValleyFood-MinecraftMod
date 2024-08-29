@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food_sv",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:salmon"
+    },
+    "b": {
+      "item": "minecraft:potato"
+    }
+  },
+  "result": {
+    "item": "sdvf:baked_fish",
+    "count": 1
+  }
+}

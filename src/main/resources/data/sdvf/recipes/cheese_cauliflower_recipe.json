@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "food_sv",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:honeycomb"
+    },
+    "b": {
+      "item": "minecraft:milk_bucket"
+    },
+    "c": {
+      "item": "minecraft:sweet_berry_bush"
+    }
+  },
+  "result": {
+    "item": "sdvf:cheese_cauliflower",
+    "count": 2
+  }
+}

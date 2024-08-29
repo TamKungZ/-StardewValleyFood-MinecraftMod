@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "sdvf:tom_kha_soup"
+    }
+  },
+  "result": {
+    "item": "sdvf:trout_soup",
+    "count": 1
+  }
+}

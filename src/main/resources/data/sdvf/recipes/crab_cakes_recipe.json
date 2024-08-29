@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cake"
+    },
+    "b": {
+      "item": "minecraft:cookie"
+    }
+  },
+  "result": {
+    "item": "sdvf:crab_cakes",
+    "count": 1
+  }
+}

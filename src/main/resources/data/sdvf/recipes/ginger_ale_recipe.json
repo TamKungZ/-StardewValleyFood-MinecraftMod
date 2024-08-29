@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:suspicious_stew"
+  },
+  "result": "sdvf:ginger_ale"
+}

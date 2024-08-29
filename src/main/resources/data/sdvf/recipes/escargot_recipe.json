@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "sdvf:cookie"
+    },
+    "b": {
+      "item": "sdvf:roasted_hazelnuts"
+    }
+  },
+  "result": {
+    "item": "sdvf:escargot",
+    "count": 2
+  }
+}
