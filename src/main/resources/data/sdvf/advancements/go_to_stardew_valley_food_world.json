@@ -1,0 +1,115 @@
+{
+  "display": {
+    "icon": {
+      "item": "sdvf:baked_fish"
+    },
+    "title": {
+      "translate": "advancements.go_to_stardew_valley_food_world.title"
+    },
+    "description": {
+      "translate": "advancements.go_to_stardew_valley_food_world.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "go_to_stardew_valley_food_world": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "sdvf:fried_egg"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50,
+    "recipes": [
+      "sdvf:omelet_recipe",
+      "sdvf:salad_recipe",
+      "sdvf:cheese_cauliflower_recipe",
+      "sdvf:baked_fish_recipe",
+      "sdvf:parsnip_soup_recipe",
+      "sdvf:vegetable_medley_recipe",
+      "sdvf:fried_calamari_recipe",
+      "sdvf:complete_breakfast_recipe",
+      "sdvf:strange_bun_recipe",
+      "sdvf:lucky_lunch_recipe",
+      "sdvf:fried_mushroom_recipe",
+      "sdvf:pizza_recipe",
+      "sdvf:bean_hotpot_recipe",
+      "sdvf:glazed_yams_recipe",
+      "sdvf:carp_surprise_recipe",
+      "sdvf:hashbrowns_recipe",
+      "sdvf:pancakes_recipe",
+      "sdvf:salmon_dinner_recipe",
+      "sdvf:fis_taco_recipe",
+      "sdvf:crispy_bass_recipe",
+      "sdvf:pepper_poppers_recipe",
+      "sdvf:bread_recipe",
+      "sdvf:tom_kha_soup_recipe",
+      "sdvf:trout_soup_recipe",
+      "sdvf:chocolate_cake_recipe",
+      "sdvf:pink_cake_recipe",
+      "sdvf:rhubarb_pie_recipe",
+      "sdvf:cookie_recipe",
+      "sdvf:spaghetti_recipe",
+      "sdvf:fried_eel_recipe",
+      "sdvf:spicy_eel_recipe",
+      "sdvf:sashimi_recipe",
+      "sdvf:maki_roll_recipe",
+      "sdvf:tortilla_recipe",
+      "sdvf:red_plate_recipe",
+      "sdvf:eggplant_parmesan_recipe",
+      "sdvf:rice_pudding_recipe",
+      "sdvf:ice_cream_recipe",
+      "sdvf:blueberry_tart_recipe",
+      "sdvf:autumn_bounty_recipe",
+      "sdvf:pumpkin_soup_recipe",
+      "sdvf:pumpkin_soup_recipe_ii",
+      "sdvf:super_meal_recipe",
+      "sdvf:cranberry_sauce_recipe",
+      "sdvf:stuffing_recipe",
+      "sdvf:farmer_lunch_recipe",
+      "sdvf:survival_burger_recipe",
+      "sdvf:dish_o_the_sea_recipe",
+      "sdvf:miner_treat_recipe",
+      "sdvf:roots_platter_recipe",
+      "sdvf:triple_shot_espresso_recipe",
+      "sdvf:seafoam_pudding_recipe",
+      "sdvf:algae_soup_recipe",
+      "sdvf:pale_broth_recipe",
+      "sdvf:plum_pudding_recipe",
+      "sdvf:artichoke_dip_recipe",
+      "sdvf:stir_fry_recipe",
+      "sdvf:roasted_hazelnuts_recipe",
+      "sdvf:pumpkin_pie_recipe",
+      "sdvf:radish_salad_recipe",
+      "sdvf:fruit_salad_recipe",
+      "sdvf:blackberry_cobbler_recipe",
+      "sdvf:cranberry_candy_recipe",
+      "sdvf:bruschetta_recipe",
+      "sdvf:coleslaw_recipe",
+      "sdvf:fiddlehead_risotto_recipe",
+      "sdvf:poppyseed_muffin_recipe",
+      "sdvf:chowder_recipe",
+      "sdvf:fish_stew_recipe",
+      "sdvf:escargot_recipe",
+      "sdvf:lobster_bisque_recipe",
+      "sdvf:maple_bar_recipe",
+      "sdvf:crab_cakes_recipe",
+      "sdvf:shrimp_cocktail_recipe",
+      "sdvf:ginger_ale_recipe",
+      "sdvf:banana_pudding_recipe",
+      "sdvf:mango_sticky_rice_recipe",
+      "sdvf:poi_recipe",
+      "sdvf:tropical_curry_recipe",
+      "sdvf:squid_ink_ravioli_recipe"
+    ]
+  },
+  "parent": "minecraft:husbandry/root"
+}
