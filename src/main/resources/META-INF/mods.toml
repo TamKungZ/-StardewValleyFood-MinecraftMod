@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="sdvf"
+version="0.2.5"
+displayName="Stardew Valley Food"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/stardew-valley-food"
+logoFile="logo.png"
+credits="https://stardewvalleywiki.com/Cooking"
+authors="TamKungZ_"
+description="Cooking is a game mechanic that becomes available after upgrading the farmhouse for the first time. The house upgrade adds a kitchen, which includes a stove and a refrigerator. The stove is the cooking interface, while the refrigerator provides 36 slots of storage space, similar to a chest. The refrigerator is unique in that it is directly linked with the cooking interface, as if it were an extension of the player's inventory. Only ingredients in the player's inventory, refrigerator or Mini-Fridge are seen as usable items for a recipe. - https://stardewvalleywiki.com/Cooking"
+
+[[dependencies.sdvf]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
