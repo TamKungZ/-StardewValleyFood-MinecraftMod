@@ -2,7 +2,8 @@
 
 **Minecraft Version Support:** 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.4, 1.20.1
 
-![Stardew Valley Food]([https://legacy.curseforge.com/minecraft/mc-mods/stardew-valley-food](https://media.forgecdn.net/attachments/919/831/stardew_vallet_food_logo.png))
+![Stardew Valley Food](https://legacy.curseforge.com/minecraft/mc-mods/stardew-valley-food)
+[Logo](https://media.forgecdn.net/attachments/919/831/stardew_vallet_food_logo.png)
 
 ## Overview
 
