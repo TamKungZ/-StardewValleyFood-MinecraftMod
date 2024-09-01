@@ -4,7 +4,7 @@ license="Not specified"
 
 [[mods]]
 modId="sdvf"
-version="0.2.5"
+version="0.2.9.1"
 displayName="Stardew Valley Food"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/stardew-valley-food"
 logoFile="logo.png"
@@ -20,5 +20,23 @@ description="Cooking is a game mechanic that becomes available after upgrading t
     side="BOTH"
 
 
+[[dependencies.sdvf]]
+    modId="farmersdelight"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sdvf]]
+    modId="nethersdelight"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sdvf]]
+    modId="crabbersdelight"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
 
