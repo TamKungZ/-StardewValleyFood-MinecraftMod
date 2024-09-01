@@ -1,0 +1,13 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "crabbersdelight:crabbersdelight:cooked_squid_tentacles"
+    }
+  ],
+  "result": {
+    "item": "sdvf:fried_calamari"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "crabbersdelight:cooked_shrimp"
+    },
+    {
+      "item": "farmersdelightcod_slice"
+    },
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "nethersdelight:propelpearl"
+    }
+  ],
+  "result": {
+    "item": "sdvf:baked_fish"
+  }
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

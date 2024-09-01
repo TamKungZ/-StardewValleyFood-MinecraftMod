@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:cabbage_leaf"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "farmersdelight:tomato"
+    },
+  ],
+  "result": {
+    "item": "sdvf:salad"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "sdvf:pancakes"
+    },
+    {
+      "item": "farmersdelight:apple_cider"
+    }
+  ],
+  "result": {
+    "item": "sdvf:complete_breakfast"
+  }
+}

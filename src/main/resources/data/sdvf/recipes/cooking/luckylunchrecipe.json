@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "crabbersdelight:pufferfish_slice"
+    },
+    {
+      "item": "minecraft:blue_orchid"
+    },
+    {
+      "item": "sdvf:tortilla"
+    },
+  ],
+  "result": {
+    "item": "sdvf:lucky_lunch"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}
