@@ -10,7 +10,7 @@
       "item": "farmersdelight:pumpkin_slice"
     },
     {
-      "item": "farmersdelight:tomato"
+      "tag": "forge:tomato"
     },
   ],
   "result": {
