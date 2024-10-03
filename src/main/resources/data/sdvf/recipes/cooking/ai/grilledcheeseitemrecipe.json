@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:bread"
+    },
+    {
+      "item": "sdvf:cheese"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    }
+  ],
+  "result": {
+    "item": "sdvf:grilled_cheese"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

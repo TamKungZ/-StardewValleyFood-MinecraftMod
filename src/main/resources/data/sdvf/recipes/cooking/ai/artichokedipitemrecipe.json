@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 150,
+  "experience": 0.8,
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "sdvf:artichoke_dip"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

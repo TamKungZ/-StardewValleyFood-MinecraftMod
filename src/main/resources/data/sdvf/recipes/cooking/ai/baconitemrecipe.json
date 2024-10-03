@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:pork"
+    }
+  ],
+  "result": {
+    "item": "sdvf:bacon"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

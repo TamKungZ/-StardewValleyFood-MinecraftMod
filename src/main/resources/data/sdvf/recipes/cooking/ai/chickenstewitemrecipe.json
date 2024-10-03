@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "pamhc2crops:carrot"
+    },
+    {
+      "item": "pamhc2crops:onion"
+    }
+  ],
+  "result": {
+    "item": "sdvf:chicken_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

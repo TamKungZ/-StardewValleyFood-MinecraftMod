@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 180,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:fish"
+    },
+    {
+      "item": "minecraft:taco_shell"
+    }
+  ],
+  "result": {
+    "item": "sdvf:fish_taco"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

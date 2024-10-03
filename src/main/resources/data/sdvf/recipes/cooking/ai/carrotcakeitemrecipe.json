@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:carrot"
+    },
+    {
+      "item": "pamhc2crops:flour"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    },
+    {
+      "item": "pamhc2foodcore:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:egg"
+    }
+  ],
+  "result": {
+    "item": "sdvf:carrot_cake"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

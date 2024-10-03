@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:cocoa"
+    },
+    {
+      "item": "pamhc2crops:flour"
+    },
+    {
+      "item": "pamhc2foodcore:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    }
+  ],
+  "result": {
+    "item": "sdvf:chocolate_cake"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

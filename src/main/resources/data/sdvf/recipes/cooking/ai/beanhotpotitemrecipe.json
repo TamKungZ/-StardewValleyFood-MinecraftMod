@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 220,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "item": "sdvf:bean_hotpot"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

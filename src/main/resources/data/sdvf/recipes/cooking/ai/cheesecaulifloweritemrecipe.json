@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:cauliflower"
+    },
+    {
+      "item": "minecraft:cheese"
+    }
+  ],
+  "result": {
+    "item": "sdvf:cheese_cauliflower"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 260,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "minecraft:fiddlehead"
+    },
+    {
+      "item": "minecraft:rice"
+    },
+    {
+      "item": "minecraft:cheese"
+    }
+  ],
+  "result": {
+    "item": "sdvf:fiddlehead_risotto"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

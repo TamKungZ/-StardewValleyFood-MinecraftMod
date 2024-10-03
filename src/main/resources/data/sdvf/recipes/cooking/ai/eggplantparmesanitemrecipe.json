@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 220,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "minecraft:eggplant"
+    },
+    {
+      "item": "minecraft:cheese"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "sdvf:eggplant_parmesan"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

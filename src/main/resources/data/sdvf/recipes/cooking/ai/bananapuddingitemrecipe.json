@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 150,
+  "experience": 0.9,
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "sdvf:banana_pudding"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

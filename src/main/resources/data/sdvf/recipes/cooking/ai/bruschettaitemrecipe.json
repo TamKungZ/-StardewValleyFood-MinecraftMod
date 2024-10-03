@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "sdvf:bread"
+    },
+    {
+      "item": "pamhc2crops:tomato"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    }
+  ],
+  "result": {
+    "item": "sdvf:bruschetta"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

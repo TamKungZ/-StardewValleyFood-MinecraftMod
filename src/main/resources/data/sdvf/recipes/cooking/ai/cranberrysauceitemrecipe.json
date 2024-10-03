@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 180,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:cranberry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "sdvf:cranberry_sauce"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

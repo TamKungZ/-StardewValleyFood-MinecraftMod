@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 300,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:vegetable"
+    },
+    {
+      "item": "minecraft:fruit"
+    }
+  ],
+  "result": {
+    "item": "sdvf:farmer_lunch"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

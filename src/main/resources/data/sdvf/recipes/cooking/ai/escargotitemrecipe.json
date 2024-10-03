@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 240,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "minecraft:snail"
+    },
+    {
+      "item": "minecraft:butter"
+    }
+  ],
+  "result": {
+    "item": "sdvf:escargot"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

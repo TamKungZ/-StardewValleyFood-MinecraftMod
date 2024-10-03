@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:cabbage"
+    },
+    {
+      "item": "pamhc2crops:carrot"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    }
+  ],
+  "result": {
+    "item": "sdvf:coleslaw"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "sdvf:bacon"
+    },
+    {
+      "item": "sdvf:cheese"
+    },
+    {
+      "item": "pamhc2crops:bread"
+    },
+    {
+      "item": "pamhc2crops:lettuce"
+    }
+  ],
+  "result": {
+    "item": "sdvf:cheeseburger"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

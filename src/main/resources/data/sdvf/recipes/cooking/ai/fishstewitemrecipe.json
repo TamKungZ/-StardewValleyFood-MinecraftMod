@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 240,
+  "experience": 1.5,
+  "ingredients": [
+    {
+      "item": "minecraft:cod"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "sdvf:fish_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

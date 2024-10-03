@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:mushroom"
+    },
+    {
+      "item": "pamhc2crops:onion"
+    },
+    {
+      "item": "pamhc2crops:carrot"
+    }
+  ],
+  "result": {
+    "item": "sdvf:mushroom_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

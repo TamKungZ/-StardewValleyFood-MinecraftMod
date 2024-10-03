@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:apple"
+    },
+    {
+      "item": "pamhc2crops:flour"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    },
+    {
+      "item": "pamhc2foodcore:sugar"
+    }
+  ],
+  "result": {
+    "item": "sdvf:pie"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

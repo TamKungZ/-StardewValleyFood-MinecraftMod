@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:flour"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    },
+    {
+      "item": "pamhc2foodcore:egg"
+    },
+    {
+      "item": "pamhc2foodcore:sugar"
+    }
+  ],
+  "result": {
+    "item": "sdvf:pancakes"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

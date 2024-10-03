@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:carrot"
+    },
+    {
+      "item": "pamhc2crops:potato"
+    },
+    {
+      "item": "pamhc2crops:onion"
+    }
+  ],
+  "result": {
+    "item": "sdvf:vegetable_stew"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

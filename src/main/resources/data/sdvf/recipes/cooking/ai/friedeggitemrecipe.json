@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:eggitem"
+    }
+  ],
+  "result": {
+    "item": "sdvf:fried_egg"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

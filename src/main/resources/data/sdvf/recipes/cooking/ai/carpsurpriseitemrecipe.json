@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 220,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:carp"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    }
+  ],
+  "result": {
+    "item": "sdvf:carp_surprise"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

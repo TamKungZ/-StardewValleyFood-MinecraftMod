@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:flour"
+    },
+    {
+      "item": "pamhc2crops:sweet_berry"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    },
+    {
+      "item": "pamhc2foodcore:sugar"
+    }
+  ],
+  "result": {
+    "item": "sdvf:fruit_cake"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

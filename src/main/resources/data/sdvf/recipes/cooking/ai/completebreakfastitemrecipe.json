@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "sdvf:fried_egg"
+    },
+    {
+      "item": "sdvf:bacon"
+    },
+    {
+      "item": "sdvf:toast"
+    }
+  ],
+  "result": {
+    "item": "sdvf:complete_breakfast"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

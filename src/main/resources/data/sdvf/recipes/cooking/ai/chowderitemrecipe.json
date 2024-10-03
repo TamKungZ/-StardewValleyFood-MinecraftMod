@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:potato"
+    },
+    {
+      "item": "pamhc2crops:onion"
+    },
+    {
+      "item": "pamhc2crops:corn"
+    },
+    {
+      "item": "crabbersdelight:cooked_crab"
+    }
+  ],
+  "result": {
+    "item": "sdvf:chowder"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

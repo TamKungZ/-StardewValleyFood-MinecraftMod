@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 300,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "minecraft:seal_meat"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "item": "sdvf:dish_of_the_seal"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

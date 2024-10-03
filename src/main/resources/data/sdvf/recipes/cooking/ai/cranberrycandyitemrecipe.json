@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 120,
+  "experience": 0.5,
+  "ingredients": [
+    {
+      "item": "minecraft:cranberry"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "sdvf:cranberry_candy"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

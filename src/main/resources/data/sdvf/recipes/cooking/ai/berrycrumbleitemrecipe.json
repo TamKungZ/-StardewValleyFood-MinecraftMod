@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2crops:berry"
+    },
+    {
+      "item": "pamhc2crops:flour"
+    },
+    {
+      "item": "pamhc2foodcore:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    }
+  ],
+  "result": {
+    "item": "sdvf:berry_crumble"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

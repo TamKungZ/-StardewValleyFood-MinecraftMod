@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:butter"
+    },
+    {
+      "item": "pamhc2crops:flour"
+    }
+  ],
+  "result": {
+    "item": "sdvf:cookie"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}
